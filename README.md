@@ -1,2 +1,2 @@
 # fitness
-workouts and script to parse fitness data
+workouts and scripts to parse fitness data
