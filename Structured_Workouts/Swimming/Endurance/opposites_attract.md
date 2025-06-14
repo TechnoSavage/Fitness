@@ -5,17 +5,17 @@
 **Intensity: Moderate**
 
 ### Warm Up
-- 100 Choice Easy
-- 50 Breaststroke Easy
-- 50 Free Easy
+- 100 Choice easy
+- 50 Breaststroke easy
+- 50 Free easy
 
 ### Main
-- 4x 50 Breaststroke Moderate @15s
-- 50 Free Easy
-- 3x 50 Breaststroke Strong @20s
-- 50 Free Easy
-- 2x 50 Breaststroke Fast @25s
-- 50 Free Easy
+- 4x 50 Breaststroke moderate @15s
+- 50 Free easy
+- 3x 50 Breaststroke strong @20s
+- 50 Free easy
+- 2x 50 Breaststroke fast @25s
+- 50 Free easy
 
 ### Warm-Down
-- 100 Choice Easy
+- 100 Choice easy

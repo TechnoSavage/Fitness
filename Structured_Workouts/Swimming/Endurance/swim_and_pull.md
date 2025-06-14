@@ -5,15 +5,15 @@
 **low intensity**
 
 ### Warm up
-- 100 FR easy
-- 2 x 50 K easy 15s kboard optional
-- 100 FR easy
+- 100 Free easy
+- 2x 50 Kick easy @15s (kickboard optional)
+- 100 Free easy
 
 ### Main set
-- 4 x 50 FR mod 20s
-- 100 FR easy pbuoy optional
-- 4 x 50 FR mod 20s
-- 200 FR easy pbuoy optional
+- 4x 50 Free moderate @20s
+- 100 Free easy (pullbuoy optional)
+- 4x 50 Free moderate @20s
+- 200 Free easy (pullbuoy optional)
 
 ### Warm down
-- 2 x 50 CH easy 20s
+- 2x 50 Choice easy @20s

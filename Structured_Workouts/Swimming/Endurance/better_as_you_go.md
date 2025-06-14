@@ -10,8 +10,8 @@
 
 ### Pre-Set
 
-- 4x 50 Catch Up drill easy 15s
-- 2x 50 Free easy 15s
+- 4x 50 Catch-up drill easy @15s
+- 2x 50 Free easy @15s
 
 ### Main set
 

@@ -5,10 +5,10 @@
 **Intensity: Low**
 
 ### Warm Up
-- 100 Choice Easy
+- 100 Choice easy
 
 ### Pre-set
-- 2x 50 Side Kick easy @15s
+- 2x 50 Side-kick easy @15s
 - 2x 50 Free easy @15s
 
 ### Main

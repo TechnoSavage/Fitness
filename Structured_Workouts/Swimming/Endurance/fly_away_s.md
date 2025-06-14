@@ -7,7 +7,7 @@
 ### Warm up
 
 - 100 Free easy
-- 2x 50 Kick w/ Kickboard Moderate @20s 
+- 2x 50 Kick w/ Kickboard moderate @20s 
 - 2x 50 Choice build @20s
 
 ### Main set x3

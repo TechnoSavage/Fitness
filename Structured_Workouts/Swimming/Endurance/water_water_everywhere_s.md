@@ -5,16 +5,16 @@
 **low intensity**
 
 ### Warm up
-- 2 x 50 Free easy @20s
+- 2x 50 Free easy @20s
 
 ### Drill set
-- 2x 50 Kick easy w/ Kickboard @20s
+- 2x 50 Kick easy @20s (kickboard optional)
 
 ### Main set
-- 50 Kick easy w/ Kickboard
+- 50 Kick easy (kickboard optional)
 - 2x 50 Free easy @20s
-- 50 Kick easy w/ Kickboard
+- 50 Kick easy (kickboard optional)
 - 4x 50 Free mod @20s
 
 ### Warm down
-- 2x 50 CH easy @20s
+- 2x 50 Choice easy @20s

@@ -19,13 +19,13 @@ Max = z5
 - 100 Choice easy
 
 ### Pre set (2x)
-- 50 6 Kick Swim easy 15s (fins optional)
+- 50 6-Kick switch drill easy @15s (fins optional)
 
 ### Main set (2x)
-- 150 Free mod 25s
+- 150 Free moderate @25s
 
 ### Post set (2x)
-- 2 x 50 6 Kick Swim easy 15s
+- 2x 50 6-Kick switch drill easy @15s
 
 ### Cool down
 - 100 Free easy

@@ -5,18 +5,18 @@
 **moderate intensity** 
 
 ### Warm up
-- 100 FR easy
-- 2x 50 K easy 15s kboard optional
-- 100 FR mod
+- 100 Free easy
+- 2x 50 Kick easy @15s (kickboard optional)
+- 100 Free mod
 
 ### Main set
-- 2x 50 K build 20s kboard optional
-- 2 x 50 K strong 30s kboard optional
-- 4 x 100 FR mod 20s
+- 2x 50 Kick build @20s (kickboard optional)
+- 2x 50 Kick strong @30s (kickboard optional)
+- 4x 100 Free moderate @20s
 
-### Post set (3x) 
-- 50 K fast kboard optional
-- 50 K easy kboard optional
+### Post set x3 
+- 50 Kick fast (kickboard optional)
+- 50 Kick easy (kickboard optional)
 
 ### Warm down
-- 4 x 50 CH easy 15s
+- 4x 50 Choice easy @15s

@@ -13,7 +13,7 @@
 
 ### Main set
 
-- 2x 50 butterfly moderate @20s
+- 2x 50 Butterfly moderate @20s
 - 4x 50 Free stromg @30s
 - 2x 50 Backstroke moderate @20s
 - 2x 100 Free strong @30s

@@ -8,7 +8,7 @@
 - 2 x 50 Choice easy @15s
 
 ### Pre-set
-- 4x 50 6 second kick easy @15s
+- 4x 50 6-Kick switch drill easy @15s
 - 2x 50 Free easy @15s
 
 ### Main set
